@@ -1,0 +1,12 @@
+.info-conten {
+    padding: 12px
+}
+
+.info-item {
+    display: flex;
+    padding: 12px;
+    justify-content: center;
+}
+.item-sub-text {
+    color:#81878C 
+}

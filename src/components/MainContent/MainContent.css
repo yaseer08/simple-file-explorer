@@ -1,0 +1,21 @@
+.main-content {
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 25px;
+}
+
+.add-item{
+	padding: 0 20px;
+}
+
+.add-button{
+	height: 90px;
+    width: 85px;
+    border: 2px dashed gainsboro;
+	color: grey;
+	border-radius: 7px;
+}
+
+.item-button{
+	padding: 0 20px;
+}

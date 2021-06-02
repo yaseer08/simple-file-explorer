@@ -1,0 +1,15 @@
+.breadcrumbs{ 
+    display: flex; 
+    flex-wrap: wrap; 
+    padding: 10px;
+}
+
+.breadcrumb{ 
+    cursor: pointer;
+    color: grey;
+}
+
+.separator{
+    padding: 0 10px;
+    color: grey;
+}

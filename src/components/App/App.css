@@ -1,0 +1,10 @@
+.App {
+	text-align: center;
+	display: flex;
+}
+
+.Content { 
+	flex: 1;
+	flex-direction: column; 
+	padding: 15px;
+}
