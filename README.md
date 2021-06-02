@@ -46,3 +46,5 @@ The data being fed to the store is based on object mapping to suffice the use ca
 The project makes use of latest hooks features and all components are functional components.
 
 ---
+## Screenshots
+![image](https://user-images.githubusercontent.com/20707161/120474930-64fa5380-c3c6-11eb-9b52-5ce82a4fd076.png)
